@@ -2,7 +2,7 @@
 
 **`Fullstack Engineer`**
 
-<div style="text-align: center; margin: 0 auto; width: 240px;">
+<div style="text-align: center; margin: 0 auto;">
   <img src="https://i.ibb.co/XZjWN3N/imagotipo-Dois.png" alt="imagotipo-Dois" style="width: 50%; height: auto;" />
 </div>
 
