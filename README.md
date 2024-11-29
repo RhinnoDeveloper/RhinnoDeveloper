@@ -41,3 +41,17 @@ Feel free to explore my projects and connect with me. Follow me on Instagram: [R
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-sql-server.png" />
+<br>
+<br>
+<br>
+<div display="inline-block">
+ 
+ <p align="left">🏡I am 33 years old, I was born in the capital of the state of São Paulo - Brazil, and I currently live in Caieiras. I love my home;</p>
+ <p align="left">💻 I have a degree in Database from Faculdade Impacta. I also studied at ETEC in Franco da Rocha. Both are great schools;</p>
+ <p align="left">📚 I am currently a civil servant, but with faith in God, I will be changing to the programming area, I am studying hard for this to happen. And when this transition happens, I will be updating this comment;</p>
+ <p align="left">☕And life is only good when we drink good coffee..</p>
+</div>
+
+### 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RhinnoDeveloper&show_icons=true&theme=merko)
