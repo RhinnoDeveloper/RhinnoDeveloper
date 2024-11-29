@@ -1,4 +1,4 @@
-<div style="text-align: center; margin: 0 auto; width: 400px; height: auto;">
+<div style="text-align: center; margin: 0 auto; width: 270px; height: auto;">
   <img src="https://i.ibb.co/XZjWN3N/imagotipo-Dois.png" alt="imagotipo-Dois" />
 </div>
 
