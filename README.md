@@ -3,7 +3,7 @@
 **`Fullstack Engineer`**
 
 <div style="text-align: center; margin: 0 auto; width: 240px;">
-  <img src="https://i.ibb.co/XZjWN3N/imagotipo-Dois.png" alt="imagotipo-Dois" style="width: 100%; height: auto;" />
+  <img src="https://i.ibb.co/XZjWN3N/imagotipo-Dois.png" alt="imagotipo-Dois" style="width: 80%; height: auto;" />
 </div>
 
 Hello! 👋 My name is Rafael Moura, passionate about the world of programming. I'm currently studying programming and web development fundamentals. Graduated in database management, I found my favorite language: JavaScript! My goal is to become a Fullstack Developer and create incredible solutions using this powerful technology.
