@@ -1,6 +1,7 @@
 # :man_technologist: Rafael Moura
 
 **`Fullstack Engineer`**
+
 <p align="center"><img src="https://i.ibb.co/XZjWN3N/imagotipo-Dois.png" alt="imagotipo-Dois" style="width: 50%; height: auto;" /></p>
 
 Hello! 👋 My name is Rafael Moura, passionate about the world of programming. I'm currently studying programming and web development fundamentals. Graduated in database management, I found my favorite language: JavaScript! My goal is to become a Fullstack Developer and create incredible solutions using this powerful technology.
@@ -52,3 +53,8 @@ Feel free to explore my projects and connect with me. Follow me on Instagram: [R
 ### 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RhinnoDeveloper&show_icons=true&theme=merko)
+
+<!-- apenas para a BIO
+
+Fullstack Engineer | Founder @ Rhinno Developer 🦏 | Lover of programming and coffee ☕ - an explosive combination! Studying to tackle life's bugs with a lot of code. 🚀
+-->
